@@ -50,9 +50,4 @@ Here’s a quick demo of how the Countdown Timer works:
    - Each break will trigger an alert and play a sound.
    - When the cycle is over (back to work), it will also play a sound and notify you.
 
-## Project Setup
-
-1. Clone the repository:
-   ```bash
-   git clone <repository_url>
 
